@@ -1,0 +1,2 @@
+# Snake-Game-in-C
+Mini project in C many Student do management project like library management ,Hotel management etc.But Snake Game is mini project of first semester build by my friend which is very different.It is console application without graphic library that's why it is more interesting.This game is perfect without any error and better user interface.It is complied in code::block using c language.Here goes a source code you can copy and compiled it in code::block.I hope it can help and become a reference for your project.

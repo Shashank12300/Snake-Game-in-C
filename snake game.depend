@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1478184908 source:c:\users\hp user\desktop\shashank program\snake game\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<process.h>
+
+1539510318 source:d:\study\projects\snake game\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+	<process.h>
+
